@@ -18,7 +18,7 @@ If you're using an unsupported version, we strongly recommend upgrading to the l
 If you discover a security vulnerability, please help us keep the project and its users safe by following these steps:
 
 1. **Do not open a public issue.**
-2. Send a detailed report to: **[benedictwawerum@gmail.com]**.
+2. Send a detailed report to: **benedictwawerum@gmail.com**.
 3. Include:
    - A clear description of the vulnerability.
    - Steps to reproduce.
